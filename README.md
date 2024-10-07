@@ -1,5 +1,5 @@
 # Smart-Portable-Charger 
 ## Charged through Solar Panels, Measuring Battery Level, Displaying data on Web and App
 
-![alt text](https://github.com/[claudia-000]/[Smart-Portable-Charger]/blob/[main]/Poster_Smart_Portable_Charger.pdf?raw=true)
+https://github.com/claudia-000/Smart-Portable-Charger/Poster_Smart_Portable_Charger.pdf
 
